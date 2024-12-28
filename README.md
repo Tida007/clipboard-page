@@ -20,4 +20,4 @@ Your users should be able to:
 
 - Coded By: [Tida Tmg]
 - Website: [(https://www.frontendmentor.io/Tida007)]
-- Live server website: [()]
+- Live server website: [(https://tida007.github.io/clipboard-page/)]
