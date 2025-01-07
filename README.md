@@ -19,5 +19,5 @@ Your users should be able to:
 ## links
 
 - Coded By: [Tida Tmg]
-- Website: [(https://www.frontendmentor.io/Tida007)]
+- Solution Website: [(https://www.frontendmentor.io/solutions/clipboard-landing-page--WxQ2kpTqw)]
 - Live server website: [(https://tida007.github.io/clipboard-page/)]
