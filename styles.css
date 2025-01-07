@@ -314,6 +314,9 @@ a {
     .footer .container, .links ul {
         align-items: center;
     }
+    .attribution {
+        align-items: start;
+    }
     .btn-group {
         width: 100%;
     }
